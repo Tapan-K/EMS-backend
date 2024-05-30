@@ -11,10 +11,16 @@ Welcome to the **EMS project** repository! This README file provides an overview
 5. [Contributing](#contributing)
 6. [License](#license)
 
+## Technologies used
+Spring boot
+Data JPA
+Rest API
+MySQL
+
 ## Introduction
 
 <p style="font-size: 1.2em; color: #333;">
-  This project aims to manage employees and their data by providing a solution that is efficient and easy to use. Below you will find more details about the project, its features, and how to get started.
+  This Spring boot project aims to manage employees and their data by providing a solution that is efficient and easy to use. Below you will find more details about the project, its features, and how to get started.
 </p>
 
 ## Features
@@ -35,7 +41,7 @@ Welcome to the **EMS project** repository! This README file provides an overview
 <pre style="background-color: #f4f4f4; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
 <code style="font-size: 1.1em; color: #c7254e;">
 Install Spring tool suit (STS)
-git clone https://github.com/username/project.git
+https://github.com/Tapan-K/EMS-backend
 Open project in STS
 </code>
 </pre>
