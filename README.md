@@ -1,6 +1,6 @@
-# Project Title
+# Employee management system [Backend]
 
-Welcome to the **Project Title** repository! This README file provides an overview of the project, how to set it up, and how to contribute.
+Welcome to the **EMS project** repository! This README file provides an overview of the project, how to set it up, and how to contribute.
 
 ## Table of Contents
 
@@ -14,15 +14,16 @@ Welcome to the **Project Title** repository! This README file provides an overvi
 ## Introduction
 
 <p style="font-size: 1.2em; color: #333;">
-  This project aims to solve a specific problem by providing a solution that is efficient and easy to use. Below you will find more details about the project, its features, and how to get started.
+  This project aims to manage employees and their data by providing a solution that is efficient and easy to use. Below you will find more details about the project, its features, and how to get started.
 </p>
 
 ## Features
 
 <ul style="font-size: 1.1em; color: #555;">
-  <li>Feature 1: Description of feature 1</li>
-  <li>Feature 2: Description of feature 2</li>
-  <li>Feature 3: Description of feature 3</li>
+  <li>Feature 1:Add Employee</li>
+  <li>Feature 2: Update Employee</li>
+  <li>Feature 3: Delete Employee </li>
+  <li>Feature 3: View All list of Employee </li>
 </ul>
 
 ## Installation
@@ -33,9 +34,9 @@ Welcome to the **Project Title** repository! This README file provides an overvi
 
 <pre style="background-color: #f4f4f4; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
 <code style="font-size: 1.1em; color: #c7254e;">
+Install Spring tool suit (STS)
 git clone https://github.com/username/project.git
-cd project
-npm install
+Open project in STS
 </code>
 </pre>
 
@@ -47,7 +48,7 @@ npm install
 
 <pre style="background-color: #f4f4f4; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
 <code style="font-size: 1.1em; color: #c7254e;">
-npm start
+Go to STS and run the project
 </code>
 </pre>
 
