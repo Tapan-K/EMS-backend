@@ -12,7 +12,10 @@ Welcome to the **EMS project** repository! This README file provides an overview
 6. [License](#license)
 
 ## Technologies used
-Spring boot   Data JPA   Rest API   MySQL
+Spring boot<br>
+Data JPA<br>
+Rest API<br>
+MySQL
 
 ## Introduction
 
